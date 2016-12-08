@@ -17,4 +17,4 @@
   * [MacPlay](http://macplay.leanote.com/)
   * [Sublime](http://www.jianshu.com/notebooks/432126/latest)
   * [GIT: FETCH AND MERGE, DON’T PULL](https://longair.net/blog/2009/04/16/git-fetch-and-merge/)
-  * [Git Pull vs Git Fetch \(and Stashing\)](http://codeahoy.com/2016/04/18/10-git-pull-vs-git-fetch-(and-stashing)/\)
+  * [Git Pull vs Git Fetch \(and Stashing\)](http://codeahoy.com/2016/04/18/10-git-pull-vs-git-fetch-(and-stashing)/)
