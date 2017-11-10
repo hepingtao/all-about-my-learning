@@ -1,8 +1,8 @@
-# Markdown Blog
+# 不浮躁、不装逼、不玩套路
 
-* Self-Create
+* 原创
 
-* From-Others
+* 收藏
   * [追寻高效工作的一路折腾](http://www.jeffjade.com/2015/05/26/2015-05-26-high-efficiency-tools-collecting/)
   * [真正的墙不是GFW，而是人的大脑](https://haoel.github.io/)
   * [墙裂推荐文章集锦](http://www.jeffjade.com/2015/02/01/2015-02-01-recommended-article/)
