@@ -3,11 +3,6 @@
 * [Introduction](README.md)
 
 * Self-Create
-  * [Maven](maven.md)
-  * [Idea](vcsOfIdea.md)
-  * [Java](java.md)
-  * [Git](git.md)
-  * [Bigdata](bigdata.md)
 
 * From-Others
   * [high-efficiency-tools-collecting](http://www.jeffjade.com/2015/05/26/2015-05-26-high-efficiency-tools-collecting/)
